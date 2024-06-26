@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 test assignment2
 hello day2
-=======
-test assignment2
->>>>>>> main
+new line
+new line2
